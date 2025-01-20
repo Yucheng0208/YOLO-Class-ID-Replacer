@@ -33,3 +33,22 @@ Class ID Replacer is a simple Python script designed to update `class_id` values
    python replace_class_id.py
    ```
 5. The script will automatically process and overwrite the .txt files in the specified folder.
+
+## Example
+### Before
+   ```txt
+      0 0.13203125 0.42890625 0.2125 0.67578125
+      1 0.14140625 0.1609375 0.09296875 0.0984375
+      2 0.37890625 0.4875 0.19296875 0.6171875
+   ```
+### After
+   ```txt
+   10 0.13203125 0.42890625 0.2125 0.67578125
+   20 0.14140625 0.1609375 0.09296875 0.0984375
+   30 0.37890625 0.4875 0.19296875 0.6171875
+   ```
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvement.
