@@ -18,7 +18,7 @@ Class ID Replacer is a simple Python script designed to update `class_id` values
    ```
 2. Modify the `folder_path` variable in the script to point to your `.txt` files directory:
   ```python
-  folder_path = "path_to_your_folder"
+  folder_path = f"path_to_your_folder"
   ```
 3. Adjust the `class_id_mapping` dictionary to define your custom mappings:
   ```python
