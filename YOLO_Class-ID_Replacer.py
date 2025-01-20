@@ -1,7 +1,7 @@
 import os
 
 # Specify the folder path
-folder_path = "path_to_your_folder"  # Replace this with the path to your folder
+folder_path = f"path_to_your_folder"  # Replace this with the path to your folder
 
 # Define the mapping of class_id to new values
 class_id_mapping = {
