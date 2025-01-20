@@ -48,7 +48,7 @@ Class ID Replacer is a simple Python script designed to update `class_id` values
    30 0.37890625 0.4875 0.19296875 0.6171875
    ```
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvement.
