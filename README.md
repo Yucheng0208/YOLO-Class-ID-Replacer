@@ -1,4 +1,4 @@
-# Class ID Replacer
+# YOLO Class ID Replacer
 
 A dual-interface Python tool (CLI + GUI) to batch replace `class_id` values in `.txt` label files. This is particularly useful for modifying YOLO-style object detection annotations or preparing datasets for machine learning.
 
